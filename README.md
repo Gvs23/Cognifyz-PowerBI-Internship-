@@ -17,7 +17,7 @@ This repository contains Power BI dashboards built during my **Virtual Internshi
 ### ✅ Task 1 – Data Exploration & Summary
 * Computed **average age**, **investment preferences**, and **savings objectives**.
 * Created summary visuals for quick insights.
-* [Task 1 Dashboard_Screenshot](Task1.png)
+* [Task 1 Dashboard_Screenshot](Dashboard_Screenshot/Task1.png)
 
 ### ✅ Task 2 – Gender-based Analysis
 * Compared **Equity, Mutual Funds, and Government Bonds** across genders.

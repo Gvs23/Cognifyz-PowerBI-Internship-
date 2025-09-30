@@ -17,54 +17,44 @@ This repository contains Power BI dashboards built during my **Virtual Internshi
 ### ✅ Task 1 – Data Exploration & Summary
 * Computed **average age**, **investment preferences**, and **savings objectives**.
 * Created summary visuals for quick insights.
-* [Task 1 Dashboard_Screenshot](Dashboard_Screenshot/Task1.png)
 <img width="1442" height="812" alt="Task1" src="https://github.com/user-attachments/assets/e3955c0a-cbbc-4a28-a277-9eda3bffdd02" />
 
 ### ✅ Task 2 – Gender-based Analysis
 * Compared **Equity, Mutual Funds, and Government Bonds** across genders.
 * Highlighted gender-based investment trends.
-* [Task 2 Dashboard_Screenshot](Dashboard_Screenshot/Task2.png)
 <img width="1444" height="814" alt="Task2" src="https://github.com/user-attachments/assets/970445a7-3700-4158-ba6d-07091910be4e" />
 
 ### ✅ Task 3 – Objective Analysis
 * Correlation between **objectives (Capital Appreciation, Growth, Income)** and **investment avenues**.
 * Heatmaps and counts to show strongest alignments.
-* [Task 3 Dashboard_Screenshot](Dashboard_Screenshot/Task3.png)
-  <img width="1447" height="808" alt="Task3" src="https://github.com/user-attachments/assets/6d30d9af-7e62-439c-a1ff-d63d6bda7948" />
+<img width="1447" height="808" alt="Task3" src="https://github.com/user-attachments/assets/6d30d9af-7e62-439c-a1ff-d63d6bda7948" />
 
 
 ### ✅ Task 4 – Investment Duration & Monitoring Frequency
 * Visualized common **investment durations**.
 * Analyzed **monitoring frequencies** (daily, weekly, monthly).
 * Linked frequencies with preferred avenues.
-* [Task 4 Dashboard_Screenshot](Dashboard_Screenshot/Task4.png)
-  <img width="1312" height="736" alt="Task4" src="https://github.com/user-attachments/assets/e3560481-1b89-4fa4-abf4-83b97206175f" />
+<img width="1312" height="736" alt="Task4" src="https://github.com/user-attachments/assets/e3560481-1b89-4fa4-abf4-83b97206175f" />
 
 
 ### ✅ Task 5 – Reasons for Investment
 * Identified common reasons: **Capital Appreciation, Assured Returns, Better Returns**.
 * Created correlation matrix between reasons and investment avenues.
-* [Task 5 Dashboard_Screenshot](Dashboard_Screenshot/Task5.png)
 <img width="1309" height="738" alt="Task5" src="https://github.com/user-attachments/assets/19d75dd4-b755-4cf0-b4c0-ebca99a7fa8b" />
 
   
-
 ### ⏳ Task 6 – Sources of Investment Information
 * Analyzed where respondents get investment information.
 * Found **Financial Consultants** as the most trusted source, followed by **Newspapers & Magazines**.
 * Highlighted links between safer avenues (PPF, Fixed Deposits) and consultant advice.
-* [Task 6 Dashboard_Screenshot](Dashboard_Screenshot/Task6.png)
 <img width="1314" height="736" alt="Task6" src="https://github.com/user-attachments/assets/4f86154b-aa7e-427f-aeb0-fbd92302f681" />
 
-  
 
 ### 🔔 Task 7 – Final Dashboard
 * Combined all insights into a **comprehensive dashboard**.
 * Added interactivity with slicers and reset filters.
-* [Task 7 Dashboard_Screenshot](Dashboard_Screenshot/Task7.png)
 <img width="1448" height="814" alt="Task7" src="https://github.com/user-attachments/assets/4dd68b76-6b34-4658-a62d-c04f69023eb4" />
 
----
 
 ## 🔍 Key Insights
 * 📌 **Average age of respondents:** 27.8 years

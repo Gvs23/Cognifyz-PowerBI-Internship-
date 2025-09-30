@@ -22,28 +22,34 @@ This repository contains Power BI dashboards built during my **Virtual Internshi
 ### ✅ Task 2 – Gender-based Analysis
 * Compared **Equity, Mutual Funds, and Government Bonds** across genders.
 * Highlighted gender-based investment trends.
+* [Task 2 Dashboard_Screenshot](Dashboard_Screenshot/Task2.png)
 
 ### ✅ Task 3 – Objective Analysis
 * Correlation between **objectives (Capital Appreciation, Growth, Income)** and **investment avenues**.
 * Heatmaps and counts to show strongest alignments.
+* [Task 3 Dashboard_Screenshot](Dashboard_Screenshot/Task3.png)
 
 ### ✅ Task 4 – Investment Duration & Monitoring Frequency
 * Visualized common **investment durations**.
 * Analyzed **monitoring frequencies** (daily, weekly, monthly).
 * Linked frequencies with preferred avenues.
+* [Task 4 Dashboard_Screenshot](Dashboard_Screenshot/Task4.png)
 
 ### ✅ Task 5 – Reasons for Investment
 * Identified common reasons: **Capital Appreciation, Assured Returns, Better Returns**.
 * Created correlation matrix between reasons and investment avenues.
+* [Task 5 Dashboard_Screenshot](Dashboard_Screenshot/Task5.png)
 
 ### ⏳ Task 6 – Sources of Investment Information
 * Analyzed where respondents get investment information.
 * Found **Financial Consultants** as the most trusted source, followed by **Newspapers & Magazines**.
 * Highlighted links between safer avenues (PPF, Fixed Deposits) and consultant advice.
+* [Task 6 Dashboard_Screenshot](Dashboard_Screenshot/Task6.png)
 
 ### 🔔 Task 7 – Final Dashboard
 * Combined all insights into a **comprehensive dashboard**.
 * Added interactivity with slicers and reset filters.
+* [Task 7 Dashboard_Screenshot](Dashboard_Screenshot/Task7.png)
 
 ---
 
@@ -56,7 +62,3 @@ This repository contains Power BI dashboards built during my **Virtual Internshi
 * 📌 **Key reason for investing:** Assured & Better Returns
 * 📌 **Most trusted source of investment information:** Financial Consultants
 
-## 📷 Dashboard Previews
-
-## 🏷️ Tags
-#PowerBI #DataAnalytics #Dashboard #Internship #Cognifyz #InvestmentAnalysis #Visualization
